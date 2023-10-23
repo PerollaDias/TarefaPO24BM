@@ -1,0 +1,11 @@
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\bin\Debug\TarefaPo2.exe.config
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\bin\Debug\TarefaPo2.exe
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\bin\Debug\TarefaPo2.pdb
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.Form1.resources
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.Properties.Resources.resources
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.csproj.GenerateResource.cache
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.exe
+C:\Users\2022102020078\source\repos\TarefaPo2\TarefaPo2\obj\Debug\TarefaPo2.pdb
